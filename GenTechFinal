@@ -1,4 +1,4 @@
-// 1. Создать пустую коллекцию orders и заполнить ее данными
+
 db.orders.insertMany([
   {
     orderId: 1,
